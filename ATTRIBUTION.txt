@@ -1,0 +1,7 @@
+Based on the public IBM Developer Skills Network starter project:
+https://github.com/ibm-developer-skills-network/final-cloud-app-with-database
+Original project license: Apache License, Version 2.0. See LICENSE.
+
+Changes: assessment models, Django admin inlines, views, routes, templates,
+sample-data management command, tests, local development settings and Russian guide.
+This is a study example, not an official evaluated submission or certification.
